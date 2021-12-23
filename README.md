@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/static/v1?label=&message=nodejs&color=green&style=for-the-badge&logo=)![badge](https://img.shields.io/static/v1?label=Express&message=framework&color=green&style=for-the-badge&logo=)![badge](https://img.shields.io/static/v1?label=&message=web3&color=blue&style=for-the-badge&logo=)
+![badge](https://img.shields.io/static/v1?label=&message=nodejs&color=green&style=for-the-badge&logo=) ![badge](https://img.shields.io/static/v1?label=Express&message=framework&color=green&style=for-the-badge&logo=) ![badge](https://img.shields.io/static/v1?label=&message=web3&color=blue&style=for-the-badge&logo=)
 
 # ASMODEUS SERVER
 
