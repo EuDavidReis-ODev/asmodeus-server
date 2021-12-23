@@ -1,3 +1,5 @@
+![badge](https://img.shields.io/static/v1?label=&message=nodejs&color=green&style=for-the-badge&logo=)![badge](https://img.shields.io/static/v1?label=Express&message=framework&color=green&style=for-the-badge&logo=)![badge](https://img.shields.io/static/v1?label=&message=web3&color=blue&style=for-the-badge&logo=)
+
 # ASMODEUS SERVER
 
 <p>Asmodeus server é um projeto de meus estudos sobre blockchain, é basicamente um servidor que fica observando uma determinada wallet, e assim que algum valor (suficiente para ser transacionado) é recebido, imediatamente é redirecionado/transacionado para outra wallet.
