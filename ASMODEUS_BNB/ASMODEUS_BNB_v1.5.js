@@ -1,8 +1,6 @@
 const Web3 = require('web3');
 
 //Providers
-var providerTest = "wss://ropsten.infura.io/ws/v3/1cefe84e28d9495d8d305aa1d7ea414f";
-var providerMain = 'wss://mainnet.infura.io/ws/v3/1cefe84e28d9495d8d305aa1d7ea414f';
 var bnbProvider = 'wss://bsc-ws-node.nariox.org:443';
 //Private Key
 const privKey = 'SUA PRIVATE KEY';

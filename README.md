@@ -25,7 +25,9 @@ Todos os pacotes npm necessários já estarão instalados, sendo eles o Express 
 
 ## Redes
 
-Por default o Asmodeus já vem com a rede Ethereum/SmartChain configuradas, e também suas respectivas redes de testes. Note que caso você pretenda criar um projeto real, você deve trocar as redes Infura que estão configuradas no projeto, pelo link de um projeto seu. Crie uma conta na [Infura](https://infura.io) e substitua as URLs abaixo pelas suas. Os links default devem ser utilizados apenas para testes, não me responsabilizo por eventuais perdas.
+Por default o Asmodeus já vem com a rede Ethereum/SmartChain configuradas, e também com a rede de testes Ethereum, a SmartChain ainda não possui websockets da rede de testes, neste caso, para fins de teste, você pode usar uma requisição https (url disponível na documentação da Binance) ao invés de wss, porém desta forma não será possível ficar observando a carteira inicial.
+
+ Note que caso você pretenda criar um projeto real, você deve trocar as redes Infura que estão configuradas no projeto, pelo link de um projeto seu. Crie uma conta na [Infura](https://infura.io) e substitua as URLs abaixo pelas suas. Os links default devem ser utilizados apenas para testes, não me responsabilizo por eventuais perdas.
 
 ![](IMGS/redeInfura.png)
 
